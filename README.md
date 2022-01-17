@@ -1,6 +1,9 @@
-# ![image](https://user-images.githubusercontent.com/83346225/149765578-9748c9dc-89cf-4209-a404-09b9d1eb1a0d.png)
+# ![image](https://user-images.githubusercontent.com/83346225/149765578-9748c9dc-89cf-4209-a404-09b9d1eb1a0d.png) 
+Основной экран сайта
 ![image](https://user-images.githubusercontent.com/83346225/149765633-0af77427-c3be-4cd1-a62b-59d6ddadb76b.png)
+Корзина отображающая количество добавленных к покупке товаров
 ![image](https://user-images.githubusercontent.com/83346225/149765654-c03be954-f59c-4418-85d6-53a09578cf45.png)
+Модальное окно корзины с бэкдропом
 
 
 
