@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 60%;
+}
+
+.img {
+  width: auto;
+  height: auto;
+  max-width: 60%;
+}
+
+.info {
+  padding-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.name {
+  flex-grow: 1;
+  font-weight: 600;
+  font-size: 30px;
+  margin: 0;
+}
+
+.price {
+  flex-grow: 1;
+  text-align: right;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.ui {
+    display: flex;
+    justify-content: right;
+}
+

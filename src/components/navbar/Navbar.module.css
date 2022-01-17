@@ -1,0 +1,32 @@
+.logo {
+    width: 35px;
+    height: 35px;
+}
+
+.appbar {
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.title {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    /* flex-grow: 1; */
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+.grow {
+    flex-grow: 1;
+}
+
